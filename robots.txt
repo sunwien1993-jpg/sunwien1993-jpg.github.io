@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# SEO: Google Search Console にサイト登録後、こちらにSitemapを指します
+Sitemap: https://sunwien1993-jpg.github.io/sitemap.xml
